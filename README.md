@@ -7,3 +7,4 @@ bilibili更改了封面链接的写法，将封面链接写到了meta里
 
 ## 2018.7.15更新
 metas写成了matas，妈蛋
+解决某些情况下response未定义的问题
